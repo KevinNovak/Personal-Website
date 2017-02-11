@@ -1,19 +1,19 @@
-h3 {
-	font-weight: 400;
-	color: #363636;
+.res-title {
+	color: orange;
 }
 
-h4 {
-	font-weight: 400;
-	color: #363636;
+.res-date {
+	color: blue;
 }
 
-h5 {
-	font-weight: 400;
-	color: #363636;
+.res-position {
+	color: green;
 }
 
-h6 {
-	font-weight: 400;
-	color: #363636;
+.res-company {
+	color: yellow;
+}
+
+.res-city {
+	color: red;
 }
