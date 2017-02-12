@@ -17,3 +17,7 @@
 .res-city {
 	color: red;
 }
+
+.no-underline {
+	text-decoration:  none;
+}
