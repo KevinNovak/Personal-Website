@@ -1,3 +1,14 @@
+/* General */
+span.aw {
+	display:inline-block; 
+}
+
+/* Links */
+a.no-underline {
+	text-decoration:  none;
+}
+
+/* Text */
 .res-title {
 	font-size: 1.75em;
 	color: #151C3A;
@@ -16,13 +27,4 @@
 .res-company {
 	font-size: 1.25em;
 	color: #151C3A;
-}
-
-.res-city {
-	font-size: 1.25em;
-	color: #151C3A;
-}
-
-.no-underline {
-	text-decoration:  none;
 }
