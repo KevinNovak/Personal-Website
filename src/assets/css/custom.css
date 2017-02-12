@@ -9,9 +9,19 @@ a.no-underline {
 }
 
 /* Text */
+.res-name {
+	font-size: 3.50em;
+	color: #151C3A;
+}
+
 .res-title {
 	font-size: 1.75em;
 	color: #151C3A;
+}
+
+.res-normal {
+	font-size: 1.25em;
+	color: #777777;
 }
 
 .res-date {

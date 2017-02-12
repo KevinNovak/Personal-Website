@@ -1,4 +1,5 @@
 #151C3A - Dark Blue
 #25C0D5 - Light Blue
 #7F7F7F - Light Grey
+#777777 - Default Text
 #363636 - Off Black
