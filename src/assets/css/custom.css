@@ -11,12 +11,12 @@ a.no-underline {
 /* Text */
 .res-name {
 	font-size: 3.50em;
-	color: #151C3A;
+	color: #363636 ;
 }
 
 .res-title {
 	font-size: 1.75em;
-	color: #151C3A;
+	color: #363636 ;
 }
 
 .res-normal {
@@ -36,5 +36,5 @@ a.no-underline {
 
 .res-company {
 	font-size: 1.25em;
-	color: #151C3A;
+	color: #363636 ;
 }
