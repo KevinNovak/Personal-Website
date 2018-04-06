@@ -1,40 +1,43 @@
 /* General */
+
 span.aw {
-	display:inline-block; 
+    display: inline-block;
 }
 
 /* Links */
+
 a.no-underline {
-	text-decoration:  none;
+    text-decoration: none;
 }
 
 /* Text */
+
 .res-name {
-	font-size: 3.50em;
-	color: #363636 ;
+    font-size: 3.50em;
+    color: #363636;
 }
 
 .res-title {
-	font-size: 1.75em;
-	color: #363636 ;
+    font-size: 1.75em;
+    color: #363636;
 }
 
 .res-normal {
-	font-size: 1.25em;
-	color: #777777;
+    font-size: 1.25em;
+    color: #777777;
 }
 
 .res-date {
-	font-size: 1.25em;
-	color: #25C0D5;
+    font-size: 1.25em;
+    color: #25C0D5;
 }
 
 .res-position {
-	font-size: 1.25em;
-	color: #151C3A;
+    font-size: 1.25em;
+    color: #151C3A;
 }
 
 .res-company {
-	font-size: 1.25em;
-	color: #363636 ;
+    font-size: 1.25em;
+    color: #363636;
 }
