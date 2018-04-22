@@ -1,22 +1,29 @@
 {
-  "name": "personal-website",
+  "author": "Kevin Novak",
+  "name": "kevin-novak-site",
   "version": "1.0.0",
-  "description": "My personal website",
+  "description": "Personal website of Kevin Novak.",
+  "keywords": [
+    "kevin",
+    "novak",
+    "personal",
+    "website"
+  ],
+  "license": "MIT",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "pm2 start app.js --name personal-site"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KevinNovak/Personal-Website.git"
-  },
-  "author": "Kevin Novak",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KevinNovak/Personal-Website/issues"
+  "dependencies": {
+    "express": "4.16.3",
+    "pm2": "2.10.2"
   },
   "homepage": "https://github.com/KevinNovak/Personal-Website#readme",
-  "dependencies": {
-    "express": "4.16.3"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevinNovak/Personal-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KevinNovak/Personal-Website/issues"
   }
 }
